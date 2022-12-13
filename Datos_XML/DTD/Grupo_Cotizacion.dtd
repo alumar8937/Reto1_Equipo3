@@ -1,0 +1,4 @@
+<!ELEMENT Grupo_Cotizacion_Tabla (Grupo_Cotizacion*)>
+<!ELEMENT Grupo_Cotizacion (Id+, sueldo_base+)>
+<!ELEMENT Id (#PCDATA)>
+<!ELEMENT sueldo_base (#PCDATA)>
