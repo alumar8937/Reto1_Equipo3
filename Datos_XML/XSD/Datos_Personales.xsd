@@ -1,0 +1,19 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Datos_Personales_Tabla">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Datos_Personales">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id_usuario" type="xs:integer"></xs:element>
+                            <xs:element name="Nombre" type="xs:string"></xs:element>
+                            <xs:element name="Apellido1" type="xs:string"></xs:element>
+                            <xs:element name="Apellido2" type="xs:string"></xs:element>
+                            <xs:element name="num_SegSocial" type="xs:integer"></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

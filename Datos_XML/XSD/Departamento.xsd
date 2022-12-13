@@ -1,0 +1,15 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Departamento_Tabla">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Departamento">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type=""></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

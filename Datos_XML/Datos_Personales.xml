@@ -12,167 +12,195 @@
         <Nombre>LUIS</Nombre>
         <Apellido1>DEL TORO</Apellido1>
         <Apellido2>GIL</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>3</id_usuario>
         <Nombre>JUDAS</Nombre>
         <Apellido1>ISCARIOTE</Apellido1>
         <Apellido2>IMAN</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>4</id_usuario>
         <Nombre>TORIVIO</Nombre>
         <Apellido1>MARTINEZ</Apellido1>
         <Apellido2>INIESTA</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>5</id_usuario>
         <Nombre>LAURA</Nombre>
         <Apellido1>MOLL</Apellido1>
         <Apellido2>GIL</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>6</id_usuario>
         <Nombre>EVA</Nombre>
         <Apellido1>PELLICER</Apellido1>
         <Apellido2>JUAN</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>7</id_usuario>
         <Nombre>PEDRO</Nombre>
         <Apellido1>RAMIRES</Apellido1>
         <Apellido2>TORRES</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>8</id_usuario>
         <Nombre>LUCIA</Nombre>
         <Apellido1>VILA</Apellido1>
         <Apellido2>NOVA</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>9</id_usuario>
         <Nombre>JOHANN</Nombre>
         <Apellido1>AGUILAR</Apellido1>
         <Apellido2>ALBA</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>10</id_usuario>
         <Nombre>FRANCISCO</Nombre>
         <Apellido1>ANA</Apellido1>
         <Apellido2>CLETO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>11</id_usuario>
         <Nombre>RODRIGO</Nombre>
         <Apellido1>GALLEGO</Apellido1>
         <Apellido2>CHAVES</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>12</id_usuario>
         <Nombre>PEPE</Nombre>
         <Apellido1>SANCHO</Apellido1>
         <Apellido2>CARVALHO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>13</id_usuario>
         <Nombre>ANDRES</Nombre>
         <Apellido1>BASE</Apellido1>
         <Apellido2>NOVA</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>14</id_usuario>
         <Nombre>MIGUEL</Nombre>
         <Apellido1>CID</Apellido1>
         <Apellido2>CABANES</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>15</id_usuario>
         <Nombre>FRANCISCO</Nombre>
         <Apellido1>COELLO</Apellido1>
         <Apellido2>ALABAU</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>16</id_usuario>
         <Nombre>ISABEL</Nombre>
         <Apellido1>RUIZ</Apellido1>
         <Apellido2>MONCHO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>17</id_usuario>
         <Nombre>ALBERTO</Nombre>
         <Apellido1>SACA</Apellido1>
         <Apellido2>RINO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>18</id_usuario>
         <Nombre>PIEDAD</Nombre>
         <Apellido1>VALENCIA</Apellido1>
         <Apellido2>RUIZ</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>19</id_usuario>
         <Nombre>SARA</Nombre>
         <Apellido1>ZAMBUJO</Apellido1>
         <Apellido2>CAMPOS</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>20</id_usuario>
         <Nombre>JAVIER</Nombre>
         <Apellido1>ARIAS</Apellido1>
         <Apellido2>PUJOL</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>21</id_usuario>
         <Nombre>CARLOS</Nombre>
         <Apellido1>BENITO</Apellido1>
         <Apellido2>BONIATO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>22</id_usuario>
         <Nombre>JOSE</Nombre>
         <Apellido1>CALASANZ</Apellido1>
         <Apellido2>MATEO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>23</id_usuario>
         <Nombre>MARTA</Nombre>
         <Apellido1>CAR</Apellido1>
         <Apellido2>PANTA</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>24</id_usuario>
         <Nombre>PEDRO</Nombre>
         <Apellido1>GOMIS</Apellido1>
         <Apellido2>ZAMBUJO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>25</id_usuario>
         <Nombre>PEDRO</Nombre>
         <Apellido1>MESI</Apellido1>
         <Apellido2>SUAREZ</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>26</id_usuario>
         <Nombre>LUIS</Nombre>
         <Apellido1>NAVARRO</Apellido1>
         <Apellido2>RUIZ</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>27</id_usuario>
         <Nombre>AMELIE</Nombre>
         <Apellido1>TRIBU</Apellido1>
         <Apellido2>LETE</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>28</id_usuario>
         <Nombre>MANUEL</Nombre>
         <Apellido1>VARGAS</Apellido1>
         <Apellido2>COELLO</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
     <Datos_Personales>
         <id_usuario>29</id_usuario>
         <Nombre>PEPE</Nombre>
         <Apellido1>VARGAS</Apellido1>
         <Apellido2>VARGAS</Apellido2>
+        <num_SegSocial></num_SegSocial>
     </Datos_Personales>
 </Datos_Personales_Tabla>
