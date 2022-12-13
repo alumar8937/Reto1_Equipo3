@@ -1,12 +1,11 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="Departamento_Tabla">
+    <xs:element name="Categoria_Tabla">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="Departamento">
+                <xs:element name="Categoria">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="id" type="xs:integer"></xs:element>
-                            <xs:element name="Nombre" type="xs:string"></xs:element>
+                            <xs:element name=""></xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
