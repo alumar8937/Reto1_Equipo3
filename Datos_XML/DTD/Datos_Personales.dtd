@@ -1,0 +1,7 @@
+<!ELEMENT Datos_Personales_Tabla (Datos_Personales*)>
+<!ELEMENT Datos_Personales (id_usuario, Nombre, Apellido1, Apellido2, num_SegSocial)>
+<!ELEMENT id_usuario (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Apellido1 (#PCDATA)>
+<!ELEMENT Apellido2 (#PCDATA)>
+<!ELEMENT num_SegSocial (#PCDATA)>
