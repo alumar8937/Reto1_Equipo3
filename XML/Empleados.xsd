@@ -1,0 +1,37 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Departamentos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Departamento" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Empleados">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Empleado" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="Nombre" />
+                          <xs:element type="xs:string" name="Apellido1" />
+                          <xs:element type="xs:string" name="Apellido2" />
+                          <xs:element type="xs:string" name="cuenta" />
+                          <xs:element type="xs:date" name="Antigüedad" />
+                          <xs:element type="xs:integer" name="N._de_afiliación_a_la_Seguridad_Social" />
+                          <xs:element type="xs:string" name="Categoría-Grupo_profesional" />
+                          <xs:element type="xs:byte" name="Grupo_Cotización" />
+                          <xs:element type="xs:string" name="email" />
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="NIF" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="Nombre" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

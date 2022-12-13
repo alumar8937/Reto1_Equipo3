@@ -1,0 +1,346 @@
+<Empleados xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="Empleados.xsd">
+    <Empleado NIF="12345713-J">
+        <Nombre>SUSANA</Nombre>
+        <Apellido1>ALABAU</Apellido1>
+        <Apellido2>SANCHO</Apellido2>
+        <cuenta>salabaus</cuenta>
+        <Antigüedad>27/03/2013</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>5</Grupo_Cotización>
+        <email>salabaus@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345704-A">
+        <Nombre>LUIS</Nombre>
+        <Apellido1>DEL TORO</Apellido1>
+        <Apellido2>GIL</Apellido2>
+        <cuenta>ldel_torog</cuenta>
+        <Antigüedad>27/12/2020</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>4</Grupo_Cotización>
+        <email>ldel_torog@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345709-F">
+        <Nombre>JUDAS</Nombre>
+        <Apellido1>ISCARIOTE</Apellido1>
+        <Apellido2>IMAN</Apellido2>
+        <cuenta>jiscariotei</cuenta>
+        <Antigüedad>5/10/2014</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>4</Grupo_Cotización>
+        <email>jiscariotei@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345710-G">
+        <Nombre>TORIVIO</Nombre>
+        <Apellido1>MARTINEZ</Apellido1>
+        <Apellido2>INIESTA</Apellido2>
+        <cuenta>tmartinezi</cuenta>
+        <Antigüedad>2/06/2016</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A3</Categoría-Grupo_profesional>
+        <Grupo_Cotización>5</Grupo_Cotización>
+        <email>tmartinezi@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345702-Y">
+        <Nombre>LAURA</Nombre>
+        <Apellido1>MOLL</Apellido1>
+        <Apellido2>GIL</Apellido2>
+        <cuenta>lmollg</cuenta>
+        <Antigüedad>27/12/2022</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>lmollg@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345678-A">
+        <Nombre>EVA</Nombre>
+        <Apellido1>PELLICER</Apellido1>
+        <Apellido2>JUAN</Apellido2>
+        <cuenta>epellicerj</cuenta>
+        <Antigüedad>16/03/2020</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>4</Grupo_Cotización>
+        <email>epellicerj@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345705-B">
+        <Nombre>PEDRO</Nombre>
+        <Apellido1>RAMIRES</Apellido1>
+        <Apellido2>TORRES</Apellido2>
+        <cuenta>pramirest</cuenta>
+        <Antigüedad>7/10/2013</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>4</Grupo_Cotización>
+        <email>pramirest@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345706-C">
+        <Nombre>LUCIA</Nombre>
+        <Apellido1>VILA</Apellido1>
+        <Apellido2>NOVA</Apellido2>
+        <cuenta>lvilan</cuenta>
+        <Antigüedad>18/06/2022</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>4</Grupo_Cotización>
+        <email>lvilan@empresa3.com</email>
+        <departamento>COMERCIAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345680-C">
+        <Nombre>JOHANN</Nombre>
+        <Apellido1>AGUILAR</Apellido1>
+        <Apellido2>ALBA</Apellido2>
+        <cuenta>jaguilara</cuenta>
+        <Antigüedad>16/10/2019</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B3</Categoría-Grupo_profesional>
+        <Grupo_Cotización>4</Grupo_Cotización>
+        <email>jaguilara@empresa3.com</email>
+        <departamento>COMPATIBILITAT</departamento>
+    </Empleado>
+    <Empleado NIF="12345700-W">
+        <Nombre>FRANCISCO</Nombre>
+        <Apellido1>ANA</Apellido1>
+        <Apellido2>CLETO</Apellido2>
+        <cuenta>fanac</cuenta>
+        <Antigüedad>1/03/2023</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B3</Categoría-Grupo_profesional>
+        <Grupo_Cotización>3</Grupo_Cotización>
+        <email>fanac@empresa3.com</email>
+        <departamento>COMPATIBILITAT</departamento>
+    </Empleado>
+    <Empleado NIF="12345679-B">
+        <Nombre>RODRIGO</Nombre>
+        <Apellido1>GALLEGO</Apellido1>
+        <Apellido2>CHAVES</Apellido2>
+        <cuenta>rgallegoc</cuenta>
+        <Antigüedad>18/10/2013</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>rgallegoc@empresa3.com</email>
+        <departamento>COMPATIBILITAT</departamento>
+    </Empleado>
+    <Empleado NIF="12345681-D">
+        <Nombre>PEPE</Nombre>
+        <Apellido1>SANCHO</Apellido1>
+        <Apellido2>CARVALHO</Apellido2>
+        <cuenta>psanchoc</cuenta>
+        <Antigüedad>13/04/2019</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>7</Grupo_Cotización>
+        <email>psanchoc@empresa3.com</email>
+        <departamento>COMPATIBILITAT</departamento>
+    </Empleado>
+    <Empleado NIF="12345707-D">
+        <Nombre>ANDRES</Nombre>
+        <Apellido1>BASE</Apellido1>
+        <Apellido2>NOVA</Apellido2>
+        <cuenta>abasen</cuenta>
+        <Antigüedad>22/06/2015</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>5</Grupo_Cotización>
+        <email>abasen@empresa3.com</email>
+        <departamento>INFORMÀTICA</departamento>
+    </Empleado>
+    <Empleado NIF="12345701-X">
+        <Nombre>MIGUEL</Nombre>
+        <Apellido1>CID</Apellido1>
+        <Apellido2>CABANES</Apellido2>
+        <cuenta>mcidc</cuenta>
+        <Antigüedad>26/03/2023</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>mcidc@empresa3.com</email>
+        <departamento>INFORMÀTICA</departamento>
+    </Empleado>
+    <Empleado NIF="12345684-G">
+        <Nombre>FRANCISCO</Nombre>
+        <Apellido1>COELLO</Apellido1>
+        <Apellido2>ALABAU</Apellido2>
+        <cuenta>fcoelloa</cuenta>
+        <Antigüedad>28/03/2014</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>fcoelloa@empresa3.com</email>
+        <departamento>INFORMÀTICA</departamento>
+    </Empleado>
+    <Empleado NIF="12345683-F">
+        <Nombre>ISABEL</Nombre>
+        <Apellido1>RUIZ</Apellido1>
+        <Apellido2>MONCHO</Apellido2>
+        <cuenta>iruizm</cuenta>
+        <Antigüedad>11/10/2014</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B3</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>iruizm@empresa3.com</email>
+        <departamento>INFORMÀTICA</departamento>
+    </Empleado>
+    <Empleado NIF="12345696-S">
+        <Nombre>ALBERTO</Nombre>
+        <Apellido1>SACA</Apellido1>
+        <Apellido2>RINO</Apellido2>
+        <cuenta>asacar</cuenta>
+        <Antigüedad>4/11/2022</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>1</Grupo_Cotización>
+        <email>asacar@empresa3.com</email>
+        <departamento>INFORMÀTICA</departamento>
+    </Empleado>
+    <Empleado NIF="12345715-L">
+        <Nombre>PIEDAD</Nombre>
+        <Apellido1>VALENCIA</Apellido1>
+        <Apellido2>RUIZ</Apellido2>
+        <cuenta>pvalenciar</cuenta>
+        <Antigüedad>11/12/2019</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>pvalenciar@empresa3.com</email>
+        <departamento>INFORMÀTICA</departamento>
+    </Empleado>
+    <Empleado NIF="12345682-E">
+        <Nombre>SARA</Nombre>
+        <Apellido1>ZAMBUJO</Apellido1>
+        <Apellido2>CAMPOS</Apellido2>
+        <cuenta>szambujoc</cuenta>
+        <Antigüedad>16/09/2022</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>5</Grupo_Cotización>
+        <email>szambujoc@empresa3.com</email>
+        <departamento>INFORMÀTICA</departamento>
+    </Empleado>
+    <Empleado NIF="12345717-N">
+        <Nombre>JAVIER</Nombre>
+        <Apellido1>ARIAS</Apellido1>
+        <Apellido2>PUJOL</Apellido2>
+        <cuenta>jariasp</cuenta>
+        <Antigüedad>2/02/2018</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>7</Grupo_Cotización>
+        <email>jariasp@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345699-V">
+        <Nombre>CARLOS</Nombre>
+        <Apellido1>BENITO</Apellido1>
+        <Apellido2>BONIATO</Apellido2>
+        <cuenta>cbenitob</cuenta>
+        <Antigüedad>28/11/2022</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>3</Grupo_Cotización>
+        <email>cbenitob@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345708-E">
+        <Nombre>JOSE</Nombre>
+        <Apellido1>CALASANZ</Apellido1>
+        <Apellido2>MATEO</Apellido2>
+        <cuenta>jcalasanzm</cuenta>
+        <Antigüedad>6/02/2012</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A3</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>jcalasanzm@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345697-T">
+        <Nombre>MARTA</Nombre>
+        <Apellido1>CAR</Apellido1>
+        <Apellido2>PANTA</Apellido2>
+        <cuenta>mcarp</cuenta>
+        <Antigüedad>4/12/2022</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>2</Grupo_Cotización>
+        <email>mcarp@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345714-K">
+        <Nombre>PEDRO</Nombre>
+        <Apellido1>GOMIS</Apellido1>
+        <Apellido2>ZAMBUJO</Apellido2>
+        <cuenta>pgomisz</cuenta>
+        <Antigüedad>4/10/2015</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A3</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>pgomisz@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345711-H">
+        <Nombre>PEDRO</Nombre>
+        <Apellido1>MESI</Apellido1>
+        <Apellido2>SUAREZ</Apellido2>
+        <cuenta>pmesis</cuenta>
+        <Antigüedad>14/03/2014</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B1</Categoría-Grupo_profesional>
+        <Grupo_Cotización>5</Grupo_Cotización>
+        <email>pmesis@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
+    </Empleado>
+    <Empleado NIF="12345712-I">
+        <Nombre>LUIS</Nombre>
+        <Apellido1>NAVARRO</Apellido1>
+        <Apellido2>RUIZ</Apellido2>
+        <cuenta>lnavarror</cuenta>
+        <Antigüedad>26/11/2017</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>6</Grupo_Cotización>
+        <email>lnavarror@empresa3.com</email>
+    </Empleado>
+    <Empleado NIF="12345698-U">
+        <Nombre>AMELIE</Nombre>
+        <Apellido1>TRIBU</Apellido1>
+        <Apellido2>LETE</Apellido2>
+        <cuenta>atribul</cuenta>
+        <Antigüedad>4/03/2023</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B3</Categoría-Grupo_profesional>
+        <Grupo_Cotización>2</Grupo_Cotización>
+        <email>atribul@empresa3.com</email>
+    </Empleado>
+    <Empleado NIF="12345716-M">
+        <Nombre>MANUEL</Nombre>
+        <Apellido1>VARGAS</Apellido1>
+        <Apellido2>COELLO</Apellido2>
+        <cuenta>mvargasc</cuenta>
+        <Antigüedad>28/07/2013</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>7</Grupo_Cotización>
+        <email>mvargasc@empresa3.com</email>
+    </Empleado>
+    <Empleado NIF="12345703-Z">
+        <Nombre>PEPE</Nombre>
+        <Apellido1>VARGAS</Apellido1>
+        <Apellido2>VARGAS</Apellido2>
+        <cuenta>pvargasv</cuenta>
+        <Antigüedad>14/12/2022</Antigüedad>
+        <N._de_afiliación_a_la_Seguridad_Social />
+        <Categoría-Grupo_profesional>B2</Categoría-Grupo_profesional>
+        <Grupo_Cotización>7</Grupo_Cotización>
+        <email>pvargasv@empresa3.com</email>
+    </Empleado>
+</Empleados>
