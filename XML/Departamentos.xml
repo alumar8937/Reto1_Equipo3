@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
+<!-- <!DOCTYPE Departamentos SYSTEM "Departamentos.dtd"> -->
+
 <Departamentos xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="Departamentos.xsd">
     <Departamento>
         <id>1</id>

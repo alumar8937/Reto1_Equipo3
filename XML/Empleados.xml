@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- <!DOCTYPE Empleados SYSTEM "Empleados.dtd"> -->
+
 <Empleados xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="Empleados.xsd">
     <Empleado NIF="12345713-J">
         <Nombre>SUSANA</Nombre>
