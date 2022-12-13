@@ -1,11 +1,12 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="Categoria_Tabla">
+    <xs:element name="Grupo_Cotizacion_Tabla">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="Categoria">
+                <xs:element name="Grupo_Cotizacion">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="cat_GrupoProfesional" type="xs:string"></xs:element>
+                            <xs:element name="Id" type="xs:integer"></xs:element>
+                            <xs:element name="sueldo_base" type="xs:integer"></xs:element>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
