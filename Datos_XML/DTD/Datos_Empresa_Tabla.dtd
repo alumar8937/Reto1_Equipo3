@@ -1,0 +1,9 @@
+<!ELEMENT Datos_Empresa_Tabla (Datos_Empresa+)>
+<!ELEMENT Datos_Empresa (id_usuario+, id_departamento+, 
+antiguedad+, cat_GrupoProfesional+, grupo_Cotizacion+, email+)>
+<!ELEMENT id_usuario (#PCDATA)>
+<!ELEMENT id_departamento (#PCDATA)>
+<!ELEMENT antiguedad (#PCDATA)>
+<!ELEMENT cat_GrupoProfesional (#PCDATA)>
+<!ELEMENT grupo_Cotizacion (#PCDATA)>
+<!ELEMENT email (#PCDATA)>

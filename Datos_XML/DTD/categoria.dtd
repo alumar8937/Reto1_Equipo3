@@ -1,0 +1,3 @@
+<!ELEMENT Categoria_Tabla (Categoria+)>
+<!ELEMENT Categoria (cat_GrupoProfesional+)>
+<!ELEMENT cat_GrupoProfesional (#PCDATA)>
