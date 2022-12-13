@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
-<!-- <!DOCTYPE Departamentos SYSTEM "Departamentos.dtd"> -->
-
-<Departamentos xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="Departamentos.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<Departamento_Tabla>
     <Departamento>
         <id>1</id>
         <Nombre>COMERCIAL</Nombre>
@@ -19,4 +16,4 @@
         <id>4</id>
         <Nombre>PERSONAL</Nombre>
     </Departamento>
-</Departamentos>
+</Departamento_Tabla>

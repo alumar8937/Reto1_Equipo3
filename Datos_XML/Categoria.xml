@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Categoria_Tabla>
+    <Categoria>
+        <cat_GrupoProfesional>A1</cat_GrupoProfesional>
+    </Categoria>
+    <Categoria>
+        <cat_GrupoProfesional>A2</cat_GrupoProfesional>
+    </Categoria>
+    <Categoria>
+        <cat_GrupoProfesional>A3</cat_GrupoProfesional>
+    </Categoria>
+    <Categoria>
+        <cat_GrupoProfesional>B1</cat_GrupoProfesional>
+    </Categoria>
+    <Categoria>
+        <cat_GrupoProfesional>B2</cat_GrupoProfesional>
+    </Categoria>
+    <Categoria>
+        <cat_GrupoProfesional>B3</cat_GrupoProfesional>
+    </Categoria>
+</Categoria_Tabla>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Grupo_Cotizacion_Tabla>
+    <Grupo_Cotizacion>
+        <Id>1</Id>
+        <sueldo_base>0</sueldo_base>
+    </Grupo_Cotizacion>
+    <Grupo_Cotizacion>
+        <Id>2</Id>
+        <sueldo_base>0</sueldo_base>
+    </Grupo_Cotizacion>
+    <Grupo_Cotizacion>
+        <Id>3</Id>
+        <sueldo_base>0</sueldo_base>
+    </Grupo_Cotizacion>
+    <Grupo_Cotizacion>
+        <Id>4</Id>
+        <sueldo_base>0</sueldo_base>
+    </Grupo_Cotizacion>
+    <Grupo_Cotizacion>
+        <Id>5</Id>
+        <sueldo_base>0</sueldo_base>
+    </Grupo_Cotizacion>
+    <Grupo_Cotizacion>
+        <Id>6</Id>
+        <sueldo_base>0</sueldo_base>
+    </Grupo_Cotizacion>
+    <Grupo_Cotizacion>
+        <Id>7</Id>
+        <sueldo_base>0</sueldo_base>
+    </Grupo_Cotizacion>
+</Grupo_Cotizacion_Tabla>
