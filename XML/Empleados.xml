@@ -313,6 +313,7 @@
         <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
         <Grupo_Cotización>6</Grupo_Cotización>
         <email>lnavarror@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
     </Empleado>
     <Empleado NIF="12345698-U">
         <Nombre>AMELIE</Nombre>
@@ -324,6 +325,7 @@
         <Categoría-Grupo_profesional>B3</Categoría-Grupo_profesional>
         <Grupo_Cotización>2</Grupo_Cotización>
         <email>atribul@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
     </Empleado>
     <Empleado NIF="12345716-M">
         <Nombre>MANUEL</Nombre>
@@ -335,6 +337,7 @@
         <Categoría-Grupo_profesional>A2</Categoría-Grupo_profesional>
         <Grupo_Cotización>7</Grupo_Cotización>
         <email>mvargasc@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
     </Empleado>
     <Empleado NIF="12345703-Z">
         <Nombre>PEPE</Nombre>
@@ -346,5 +349,6 @@
         <Categoría-Grupo_profesional>B2</Categoría-Grupo_profesional>
         <Grupo_Cotización>7</Grupo_Cotización>
         <email>pvargasv@empresa3.com</email>
+        <departamento>PERSONAL</departamento>
     </Empleado>
 </Empleados>
