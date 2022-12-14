@@ -9,8 +9,8 @@
                             <xs:element name="id_departamento" type="xs:integer"/>
                             <xs:element name="antiguedad" type="xs:string"/>
                             <xs:element name="cat_GrupoProfesional" type="xs:integer"/>
-                            <xs:element name="grupo_Cotizacion"/>
-                            <xs:element name="email"/>
+                            <xs:element name="grupo_Cotizacion" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
