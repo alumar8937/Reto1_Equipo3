@@ -2,10 +2,10 @@
     <xs:element name="Categoria_Tabla">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="Categoria">
+                <xs:element name="Categoria" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="cat_GrupoProfesional" type="xs:string"></xs:element>
+                            <xs:element name="cat_GrupoProfesional" type="xs:string"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>

@@ -2,15 +2,15 @@
     <xs:element name="Datos_Empresa_Tabla">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="Datos_Empresa">
+                <xs:element name="Datos_Empresa" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="id_usuario" type="xs:integer"></xs:element>
-                            <xs:element name="id_departamento" type="xs:integer"></xs:element>
-                            <xs:element name="antiguedad" type="xs:string"></xs:element>
-                            <xs:element name="cat_GrupoProfesional" type="xs:integer"></xs:element>
-                            <xs:element name="grupo_Cotizacion"></xs:element>
-                            <xs:element name="email"></xs:element>
+                            <xs:element name="id_usuario" type="xs:integer"/>
+                            <xs:element name="id_departamento" type="xs:integer"/>
+                            <xs:element name="antiguedad" type="xs:string"/>
+                            <xs:element name="cat_GrupoProfesional" type="xs:integer"/>
+                            <xs:element name="grupo_Cotizacion"/>
+                            <xs:element name="email"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
