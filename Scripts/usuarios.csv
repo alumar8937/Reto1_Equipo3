@@ -1,29 +1,29 @@
-cuenta,contrasenya,nombre_apellidos,departamento,descripcion
-salabaus,EEuCQDc10,SUSANA ALABAU SANCHO,comercial,salabaus@empresa3.com
-ldel_torog,EEuCQDc10,LUIS DEL TORO GIL,comercial,ldel_toro@empresa3.com
-jiscariotei,EEuCQDc10,JUDAS ISCARIOTE IMAN,comercial,jiscariotei@empresa3.com
-tmartinezi,EEuCQDc10,TORIVIO MARTINEZ INIESTA,comercial,tmartinezi@empresa3.com
-lmollg,EEuCQDc10,LAURA MOLL GIL,comercial,lmollg@empresa3.com
-epellicerj,EEuCQDc10,EVA PELLICER JUAN,comercial,epellicerj@empresa3.com
-pramirest,EEuCQDc10,PEDRO RAMIRES TORRES,comercial,pramirest@empresa3.com
-lvilan,EEuCQDc10,LUCIA VILA NOVA,comercial,lvilan@empresa3.com
-jaguilara,EEuCQDc10,JOHANN AGUILAR ALBA,compatibilitat,jaguilara@empresa3.com
-fanac,EEuCQDc10,FRANCO ANA CLETO,compatibilitat,fanac@empresa3.com
-rgallegoc,EEuCQDc10,RODRIGO GALLEGO CHAVES,compatibilitat,rgallegoc@empresa3.com
-psanchoc,EEuCQDc10,PEPE SANCHO CARVALHO,compatibilitat,psanchoc@empresa3.com
-abasen,EEuCQDc10,ANDRES BASE NOVA,informatica,abasen@empresa3.com
-mcidc,EEuCQDc10,MIGUEL CID CABANES,informatica,mcidc@empresa3.com
-fcoelloa,EEuCQDc10,FRANCISCO COELLO ALABAU,informatica,fcoelloa@empresa3.com
-iruizm,EEuCQDc10,ISABEL RUIZ MONCHO,informatica,iruizm@empresa3.com
-asacar,EEuCQDc10,ALBERTO SACA RINO,informatica,asacar@empresa3.com
-pvalenciar,EEuCQDc10,PIEDAD VALENCIA RUIZ,informatica,pvalenciar@empresa3.com
-szambujoc,EEuCQDc10,SARA ZAMBUJO CAMPOS,informatica,szambujoc@empresa3.com
-jariasp,EEuCQDc10,JAVIER ARIAS PUJOL,personal,jariasp@empresa3.com
-cbenitob,EEuCQDc10,CARLOS BENITO BONIATO,personal,cbenitob@empresa3.com
-jcalasanzm,EEuCQDc10,JOSE CALASANZ MATEO,personal,jcalasanzm@empresa3.com
-mcarp,EEuCQDc10,MARTA CAR PANTA,personal,mcarp@empresa3.com
-pgomisz,EEuCQDc10,PEDRO GOMIS ZAMBUJO,personal,pgomisz@empresa3.com
-pmesis,EEuCQDc10,PEDRO MESI SUAREZ,personal,pmesis@empresa3.com
-lnavarror,EEuCQDc10,LUIS NAVARRO RUIZ,personal,lnavarror@empresa3.com
-atribul,EEuCQDc10,AMELIE TRIBU LETE,personal,atribul@empresa3.com
-pvargasv,EEuCQDc10,PEPE VARGAS VARGAS,personal,pvargasv@empresa3.com
+cuenta,contrasenya,nombre_apellidos,departamento,email,descripcion
+salabaus,EEuCQDc10,SUSANA ALABAU SANCHO,comercial,salabaus@empresa3.com,Jefa del Dep.Comercial
+ldel_torog,EEuCQDc10,LUIS DEL TORO GIL,comercial,ldel_toro@empresa3.com,Dep.Comercial
+jiscariotei,EEuCQDc10,JUDAS ISCARIOTE IMAN,comercial,jiscariotei@empresa3.com,Dep.Comercial
+tmartinezi,EEuCQDc10,TORIVIO MARTINEZ INIESTA,comercial,tmartinezi@empresa3.com,Dep.Comercial
+lmollg,EEuCQDc10,LAURA MOLL GIL,comercial,lmollg@empresa3.com,Dep.Comercial
+epellicerj,EEuCQDc10,EVA PELLICER JUAN,comercial,epellicerj@empresa3.com,Dep.Comercial
+pramirest,EEuCQDc10,PEDRO RAMIRES TORRES,comercial,pramirest@empresa3.com,Dep.Comercial
+lvilan,EEuCQDc10,LUCIA VILA NOVA,comercial,lvilan@empresa3.com,Dep.Comercial
+jaguilara,EEuCQDc10,JOHANN AGUILAR ALBA,compatibilitat,jaguilara@empresa3.com,Jefe del Dep.Comptabilitat
+fanac,EEuCQDc10,FRANCO ANA CLETO,compatibilitat,fanac@empresa3.com,Dep.Comptabilitat
+rgallegoc,EEuCQDc10,RODRIGO GALLEGO CHAVES,compatibilitat,rgallegoc@empresa3.com,Dep.Comptabilitat
+psanchoc,EEuCQDc10,PEPE SANCHO CARVALHO,compatibilitat,psanchoc@empresa3.com,Dep.Comptabilitat
+abasen,EEuCQDc10,ANDRES BASE NOVA,informatica,abasen@empresa3.com,Jefe del Dep.Informatica
+mcidc,EEuCQDc10,MIGUEL CID CABANES,informatica,mcidc@empresa3.com,Dep.Informatica
+fcoelloa,EEuCQDc10,FRANCISCO COELLO ALABAU,informatica,fcoelloa@empresa3.com,Dep.Informatica
+iruizm,EEuCQDc10,ISABEL RUIZ MONCHO,informatica,iruizm@empresa3.com,Dep.Informatica
+asacar,EEuCQDc10,ALBERTO SACA RINO,informatica,asacar@empresa3.com,Dep.Informatica
+pvalenciar,EEuCQDc10,PIEDAD VALENCIA RUIZ,informatica,pvalenciar@empresa3.com,Dep.Informatica
+szambujoc,EEuCQDc10,SARA ZAMBUJO CAMPOS,informatica,szambujoc@empresa3.com,Dep.Informatica
+jariasp,EEuCQDc10,JAVIER ARIAS PUJOL,personal,jariasp@empresa3.com,Jefe del Dep.Personal
+cbenitob,EEuCQDc10,CARLOS BENITO BONIATO,personal,cbenitob@empresa3.com,Dep.Personal
+jcalasanzm,EEuCQDc10,JOSE CALASANZ MATEO,personal,jcalasanzm@empresa3.com,Dep.Personal
+mcarp,EEuCQDc10,MARTA CAR PANTA,personal,mcarp@empresa3.com,Dep.Personal
+pgomisz,EEuCQDc10,PEDRO GOMIS ZAMBUJO,personal,pgomisz@empresa3.com,Dep.Personal
+pmesis,EEuCQDc10,PEDRO MESI SUAREZ,personal,pmesis@empresa3.com,Dep.Personal
+lnavarror,EEuCQDc10,LUIS NAVARRO RUIZ,personal,lnavarror@empresa3.com,Dep.Personal
+atribul,EEuCQDc10,AMELIE TRIBU LETE,personal,atribul@empresa3.com,Dep.Personal
+pvargasv,EEuCQDc10,PEPE VARGAS VARGAS,personal,pvargasv@empresa3.com,Dep.Personal
