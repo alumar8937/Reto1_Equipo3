@@ -12,7 +12,7 @@ foreach ($group in $file_groups) {
 $file_users=Import-Csv -Path usuarios.csv 
 foreach ($user in $file_users) { 
   $clave=ConvertTo-SecureString $user.contrasenya -AsPlainText -Force
-  New-LocalUser $user.cuenta -Password $clave -FullName $user.nombre_apellidos -Description $user.descripcion -AccountNeverExpires $false -PasswordNeverExpires $false
+  New-LocalUser $user.cuenta -Password $clave -FullName $user.nombre_apellidos -Description $user.descripcion -AccountNeverExpires -PasswordNeverExpires
  
   #Solicitar cambio de contraseña en el siguiente inicio de sesión
   net user $user.cuenta /logonpasswordchg:yes
@@ -21,8 +21,8 @@ foreach ($user in $file_users) {
   # creamos un array con los grupos a los que hay que añadir el usuario y que son
   # Usuarios del sistema y el grupo asociado al departamento donde trabaja
   
-  $grupos-usuario = ("usuarios",$user.departamento)
-  foreach ($grupo in $grupos-usuario){
+  $grupos.usuario = ("usuarios",$user.departamento)
+  foreach ($grupo in $grupos.usuario){
     Add-LocalGroupMember -Group $grupo -Member $user.cuenta
   }
 }
