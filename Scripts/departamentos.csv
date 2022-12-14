@@ -1,6 +1,5 @@
 nombre,descripcion
-COMERCIAL, Departament Comercial
-COMPATIBILITAT, Departament de Compatibilitat
-INFORMÀTICA, Departament d'Informàtica
-PERSONAL, Departament de Personal
-
+comercial, Departament Comercial
+compatibilitat, Departament de Compatibilitat
+informatica, Departament d'Informàtica
+personal, Departament de Personal

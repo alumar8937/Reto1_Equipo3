@@ -1,3 +1,5 @@
+# DEPRECATED
+
 $file_users=Import-Csv -Path usuarios.csv 
 foreach ($user in $file_users) { 
   $clave=ConvertTo-SecureString $user.contrasenya -AsPlainText -Force
